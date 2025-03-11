@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0999b6b9-da4d-4747-89e7-023a78d38327" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2noHZeUOVI288FB0iBekiXFptst" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/oltea/OneDrive/Desktop/Razvan/Faculta/Materii/IS/proiect-is/globebound-frontend&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.npm start.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\oltea\\OneDrive\\Desktop\\Razvan\\Faculta\\Materii\\IS\\proiect-is\\globebound-frontend\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\Materii\IS\proiect-is\globebound-frontend" />
+      <recent name="C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\Materii\IS\proiect-is\globebound-frontend\src\Components" />
+      <recent name="C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\Materii\IS\proiect-is\globebound-frontend\src" />
+      <recent name="C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\Materii\IS\proiect-is\globebound-frontend\public" />
+      <recent name="C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\Materii\IS\proiect-is\globebound-frontend\src\Pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0999b6b9-da4d-4747-89e7-023a78d38327" name="Changes" comment="" />
+      <created>1729632566330</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729632566330</updated>
+      <workItem from="1729632567216" duration="6850000" />
+      <workItem from="1729665124801" duration="4905000" />
+      <workItem from="1729703978558" duration="2634000" />
+      <workItem from="1729710957924" duration="1469000" />
+      <workItem from="1730809187201" duration="114000" />
+      <workItem from="1731423935720" duration="852000" />
+      <workItem from="1731428771790" duration="589000" />
+      <workItem from="1731440527003" duration="11509000" />
+      <workItem from="1731495391658" duration="1403000" />
+      <workItem from="1731565652943" duration="611000" />
+      <workItem from="1731877184551" duration="725000" />
+      <workItem from="1731888464764" duration="20000" />
+      <workItem from="1732567509797" duration="3046000" />
+      <workItem from="1732572297455" duration="1192000" />
+      <workItem from="1735921735821" duration="119000" />
+      <workItem from="1735922390280" duration="1468000" />
+      <workItem from="1735924121087" duration="1143000" />
+      <workItem from="1735925415494" duration="4380000" />
+      <workItem from="1735933943515" duration="6000" />
+      <workItem from="1736090081686" duration="14960000" />
+      <workItem from="1736116769285" duration="5088000" />
+      <workItem from="1736169682062" duration="14345000" />
+      <workItem from="1736196218763" duration="17613000" />
+      <workItem from="1736244014860" duration="30368000" />
+      <workItem from="1736451368359" duration="15773000" />
+      <workItem from="1736471778321" duration="12000" />
+      <workItem from="1736518777036" duration="6525000" />
+      <workItem from="1736870742008" duration="1774000" />
+      <workItem from="1737042745229" duration="734000" />
+      <workItem from="1738323135058" duration="1136000" />
+      <workItem from="1738344497144" duration="1144000" />
+      <workItem from="1741686719174" duration="124000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
